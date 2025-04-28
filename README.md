@@ -1,11 +1,11 @@
 # Çok Dilli Takip ve Yönlendirme Destekli Link Sayfası / Multilingual Link Page with Tracking and Redirect System
 ----------------
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.27.33.png)
+![](screenshots/tr-1.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.28.26.png)
+![](screenshots/tr-2.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.29.00.png)
+![](screenshots/tr-3.png)
 
 Demo: [https://link.emrecb.com](https://link.emrecb.com/)
 
@@ -52,11 +52,11 @@ Demo: [https://link.emrecb.com](https://link.emrecb.com/)
 # Multilingual Link Page with Tracking and Redirect System
 ----------------
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.29.34.png)
+![](screenshots/en-1.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.30.05.png)
+![](screenshots/en-2.png)
 
-![](https://emrecb.com/wp-content/uploads/Ekran-Resmi-2025-04-27-20.30.33.png)
+![](screenshots/en-3.png)
 
 **Link Page** is a customizable, multilingual landing page project that I built entirely from scratch using **HTML**, **CSS**, and **JavaScript**, without relying on any frameworks or templates.
 
