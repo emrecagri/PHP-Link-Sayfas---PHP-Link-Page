@@ -58,6 +58,8 @@ Demo: [https://link.emrecb.com](https://link.emrecb.com/)
 
 ![](screenshots/en-3.png)
 
+Demo: [https://link.emrecb.com](https://link.emrecb.com/)
+
 **Link Page** is a customizable, multilingual landing page project that I built entirely from scratch using **HTML**, **CSS**, and **JavaScript**, without relying on any frameworks or templates.
 
 ### Key Features
